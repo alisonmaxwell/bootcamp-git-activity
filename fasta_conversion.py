@@ -14,4 +14,4 @@ print seqs_list
 
 #Wilder was here
 
-wilder = []
+
