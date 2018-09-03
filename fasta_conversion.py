@@ -13,3 +13,5 @@ while count < len(lines_list)-1:
 print seqs_list
 
 #Wilder was here
+
+wilder = []
